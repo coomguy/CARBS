@@ -1,5 +1,16 @@
 # Coomguy's Auto-Rice Bootstrapping Scripts (CARBS)
 
+## Installation:
+
+On an Arch-based distribution as root, run the following:
+
+```
+curl -LO https://raw.githubusercontent.com/coomguy/CARBS/master/carbs.sh
+sh carbs.sh
+```
+
+That's it.
+
 ## What is CARBS?
 
 CARBS is a script that autoinstalls and autoconfigures a fully-functioning
